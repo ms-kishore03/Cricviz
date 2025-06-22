@@ -1,0 +1,5 @@
+selenium~=4.33.0
+python-dotenv~=1.1.0
+langchain~=0.3.25
+dotenv~=0.9.9
+langchain-core~=0.3.63
